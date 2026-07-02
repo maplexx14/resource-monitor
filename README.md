@@ -17,5 +17,3 @@ go build -o monitor .
 ```bash
 ./monitor
 ```
-
-Выход — `q` или `Ctrl+C`.
